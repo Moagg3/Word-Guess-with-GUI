@@ -1,0 +1,4 @@
+0. [SERVER]: Server is waiting for a client
+1. [SERVER]: Server accepted has <Client 1>.
+2. [SERVER]: Current clients connected: 1
+3. [SERVER]: <Client 1> has left the server.
